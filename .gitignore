@@ -143,3 +143,6 @@ Thumbs.db
 *.log
 .env.*
 !.env.example
+.venv/
+flowise_data/
+logs/

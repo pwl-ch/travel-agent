@@ -44,11 +44,11 @@ docs = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/pawelchoinski/travel-agent"
-Documentation = "https://pawelchoinski.github.io/travel-agent"
-Repository = "https://github.com/pawelchoinski/travel-agent"
-Issues = "https://github.com/pawelchoinski/travel-agent/issues"
-Changelog = "https://github.com/pawelchoinski/travel-agent/blob/main/CHANGELOG.md"
+Homepage = "https://github.com/pwl-ch/travel-agent"
+Documentation = "https://pwl-ch.github.io/travel-agent"
+Repository = "https://github.com/pwl-ch/travel-agent"
+Issues = "https://github.com/pwl-ch/travel-agent/issues"
+Changelog = "https://github.com/pwl-ch/travel-agent/blob/main/CHANGELOG.md"
 
 [project.scripts]
 travel_agent = "travel_agent.cli:app"
